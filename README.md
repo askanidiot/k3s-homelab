@@ -5,14 +5,15 @@ This project serves as a code repository, documentation store, and scratchpad fo
 ## Where are we now?
 
 We're at the very beginning, and at the forefront is:
-a. Scoping requirements.
+
+1. Scoping requirements.
 
 ## Why?
 
 I could sing the virtues of resilience and ease of recovery, but that would be lying. The truth would sound more like this:
 
-a. its cool (nerd),
-b. its fun (nerd),
-c. its good practice (chronic nerd),
-d. I have time (unemployed).
+1. its cool (nerd),
+2. its fun (nerd),
+3. its good practice (chronic nerd),
+4. I have time (unemployed).
 
